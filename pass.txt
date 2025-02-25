@@ -1,0 +1,18 @@
+{
+    "email":"mhbipul2122001bd@gmail.com",
+    "password":"Bipul@12345!"
+}
+
+{
+    
+    "oldPassword":"Hasan@12345!",
+    "newPassword" : "Bipul@12345!"
+}
+
+{
+    "providedCode": "702130",
+    "newPassword": "Hasan@12345!",
+    "email":"mhbipul2122001bd@gmail.com"
+    
+    
+}
